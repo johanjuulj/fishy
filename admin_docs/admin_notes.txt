@@ -1,0 +1,8 @@
+
+Kan en lot have flere fisk?
+Kan en lot have flere både?
+Kan en lot have flere faos?
+
+
+
+LotFao skal evt slettes hvis det ikke er many to many
